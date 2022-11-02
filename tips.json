@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Como fazer uma horta em casa?",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam.",
+        "image": "./assets/img/horta-organica.jpg",
+        "author": "Fabiana Texeira",
+        "date": "16/05/2022",
+        "readTime": "5 min",
+        "content": [
+            {
+                "type": "text",
+                "text": "Lorem ipsum dolor sit amet"
+            },
+            {
+                "type": "subtitle",
+                "text": "Lorem ipsum"
+            },
+            {
+                "type": "text",
+                "text": "Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam. Etiam scelerisque purus a felis scelerisque eleifend. Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus."
+            },
+            {
+                "type": "subtitle",
+                "text": "Fim do artigo"
+            },
+            {
+                "type": "text",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat"
+            }
+        ]
+    },
+    {
+        "title": "Principais cuidados com a horta",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam.",
+        "image": "./assets/img/horta-organica-2.jpg",
+        "author": "Fabiana Texeira",
+        "date": "16/05/2022",
+        "readTime": "5 min",
+        "content": [
+            {
+                "type": "text",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam. Etiam scelerisque purus a felis scelerisque eleifend. Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam. Etiam scelerisque purus a felis scelerisque eleifend. Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus."
+            },
+            {
+                "type": "subtitle",
+                "text": "Lorem ipsum"
+            },
+            {
+                "type": "text",
+                "text": "Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam. Etiam scelerisque purus a felis scelerisque eleifend. Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus."
+            }
+        ]
+    },
+    {
+        "title": "Cuidados com a horta",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam.",
+        "image": "./assets/img/horta-organica-3.jpeg",
+        "author": "Fabiana Texeira",
+        "date": "16/05/2022",
+        "readTime": "8 min",
+        "content": [
+            {
+                "type": "text",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam. Etiam scelerisque purus a felis scelerisque eleifend. Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam. Etiam scelerisque purus a felis scelerisque eleifend. Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus."
+            },
+            {
+                "type": "subtitle",
+                "text": "Lorem ipsum"
+            },
+            {
+                "type": "text",
+                "text": "Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget arcu consequat, lacinia metus in, malesuada dui. In ultricies tortor sed nulla feugiat condimentum. Proin fringilla augue felis, in scelerisque ante rhoncus non. Vestibulum in lacus aliquet, pretium diam vitae, finibus diam. Etiam scelerisque purus a felis scelerisque eleifend. Proin id commodo dui. Suspendisse vestibulum orci lacus, a condimentum dolor lacinia vel. Suspendisse malesuada tempus mi, ac vestibulum lacus porta sit amet. Curabitur efficitur lacus in ultricies tincidunt. Ut placerat finibus libero sit amet iaculis. Etiam vel consectetur justo. Nam vulputate, odio ut pulvinar condimentum, nulla nisl sodales purus, quis feugiat velit urna vel orci. Vivamus at feugiat libero. Vestibulum ac consectetur lectus."
+            }
+        ]
+    }
+]

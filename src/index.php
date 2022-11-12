@@ -31,9 +31,7 @@ $tips = json_decode(file_get_contents('../tips.json'), true);
                     <span class="text-transparent bg-gradient-to-r from-green-500 to-lime-400 bg-clip-text">horticultura</span>
                     na palma da sua mão
                 </h1>
-                <p class="mt-6 mb-8 text-lg sm:mb-12">Dictum aliquam porta in condimentum ac integer
-                    <br class="hidden md:inline lg:hidden">turpis pulvinar, est scelerisque ligula sem
-                </p>
+                <p class="mt-6 mb-8 text-lg sm:mb-12">Veja abaixo algumas dicas e conheça um pouco mais da nossa história.</p>
                 <div class="flex flex-col space-y-4 sm:items-center sm:justify-center sm:flex-row sm:space-y-0 sm:space-x-4 lg:justify-start">
                     <a rel="noopener noreferrer" href="#dicas" class="px-8 py-3 text-lg font-semibold rounded bg-gradient-to-r from-green-500 to-lime-400 text-gray-50 hover:bg-blue-700 transition-all duration-200 ease-in-out">Ver Dicas</a>
                     <a rel="noopener noreferrer" href="#sobre" class="px-8 py-3 text-lg font-semibold border rounded border-gray-800 hover:bg-gray-200 transition-all duration-100 ease-in-out">Conheça o Nosso trabalho</a>
@@ -51,13 +49,13 @@ $tips = json_decode(file_get_contents('../tips.json'), true);
             <h1 class="text-white text-center w-full mx-auto text-2xl font-bold leading-none sm:text-4xl mb-14">Dicas</h1>
 
             <div class="relative mx-auto max-w-7xl">
-                <div class="grid max-w-lg gap-12 mx-auto lg:grid-cols-3 lg:max-w-none">
+                <div class="flex justify-center flex-wrap max-w-7xl gap-4 mx-auto">
 
                     <?php
                     foreach ($tips as $key => $tip) {
                     ?>
                         <!-- Post item -->
-                        <div class="flex flex-col overflow-hidden rounded-lg shadow-lg shadow-green-500/40">
+                        <div class=" w-96 flex flex-col overflow-hidden rounded-lg shadow-lg shadow-green-500/40">
                             <div class="flex-shrink-0">
                                 <img class="object-cover w-full h-48" src="<?php echo $tip['image']; ?>" alt="">
                             </div>

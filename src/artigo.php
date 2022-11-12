@@ -15,7 +15,7 @@ $tip = $tips[$tip_id];
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../dist/output.css" rel="stylesheet">
-    <title>Casa Pia</title>
+    <title><?php echo $tip['title'] ?> - Casa Pia</title>
 </head>
 
 <body class="bg-gray-50 flex flex-col">

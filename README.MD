@@ -51,12 +51,7 @@ npx tailwindcss -i ./src/css/input.css -o ./dist/output.css --watch
 {
   "about_description": "Descrição rápida da empresa",
 
-  "questions": [
-    {
-      "question": "Texto da pergunta",
-      "answer": "Texto da resposta"
-    }
-  ]
+  "history": "História da empresa",
 }
 
 ```

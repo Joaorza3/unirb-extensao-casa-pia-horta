@@ -108,29 +108,20 @@ $tips = json_decode(file_get_contents('../tips.json'), true);
             </div>
             <!-- text - end -->
 
-            <div class="grid sm:grid-cols-2 xl:grid-cols-3 gap-8 sm:gap-y-10">
+            <div class="w-full max-w-screen-md mx-auto">
+                <!-- question - start -->
+                <div class="bg-gray-100 rounded-lg relative p-5 pt-8">
+                    <!-- <span class="w-8 h-8 inline-flex justify-center items-center bg-lime-500 text-white rounded-full absolute -top-4 left-4">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
+                        </svg>
+                    </span> -->
 
-                <?php
+                    <h1 class="text-xl font-bold text-gray-800 mb-6">Nossa História</h1>
 
-                foreach ($data['questions'] as $about) {
-                ?>
-                    <!-- question - start -->
-                    <div class="bg-gray-100 rounded-lg relative p-5 pt-8">
-                        <span class="w-8 h-8 inline-flex justify-center items-center bg-lime-500 text-white rounded-full absolute -top-4 left-4">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
-                            </svg>
-                        </span>
-
-                        <h3 class="text-lime-500 text-lg md:text-xl font-semibold mb-3"><?php echo $about['question'] ?></h3>
-                        <p class="text-gray-500"><?php echo $about['answer'] ?></p>
-                    </div>
-                    <!-- question - end -->
-
-                <?php
-                }
-                ?>
-
+                    <p class="text-gray-500"><?php echo $data['history'] ?></p>
+                </div>
+                <!-- question - end -->
 
             </div>
         </div>

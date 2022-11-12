@@ -22,9 +22,9 @@
                     <li>
                         <a rel="noopener noreferrer" href="../">Sobre Nós</a>
                     </li>
-                    <!-- <li>
-                        <a rel="noopener noreferrer" href="../">Contato</a>
-                    </li> -->
+                        <!-- <li>
+                            <a rel="noopener noreferrer" href="../">Contato</a>
+                        </li> -->
                 </ul>
             </div>
             <!-- <div class="space-y-3">
